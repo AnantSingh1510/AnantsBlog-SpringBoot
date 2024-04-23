@@ -1,0 +1,16 @@
+com\testProjects\blog\services\PostService.class
+com\testProjects\blog\models\Post.class
+com\testProjects\blog\controllers\AuthController.class
+com\testProjects\blog\security\SecurityConfig.class
+com\testProjects\blog\controllers\PublicController.class
+com\testProjects\blog\services\Impl\PostServiceImpl.class
+com\testProjects\blog\security\CustomUserDetailsService.class
+com\testProjects\blog\repositories\PostRepository.class
+com\testProjects\blog\controllers\PostController.class
+com\testProjects\blog\models\User.class
+com\testProjects\blog\security\WebMvcConfig.class
+com\testProjects\blog\services\Impl\UserServiceImpl.class
+com\testProjects\blog\BlogApplication.class
+com\testProjects\blog\services\UserService.class
+com\testProjects\blog\repositories\UserRepository.class
+com\testProjects\blog\security\CustomUserDetails.class
